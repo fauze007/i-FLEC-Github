@@ -1,0 +1,6 @@
+{
+  "name": "i-FLEC",
+  "description": "An AI-powered Language & Finance Mentor platform with speech analysis, financial simulations, performance tracking, and unlocked badges.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
